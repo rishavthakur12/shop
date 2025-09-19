@@ -1,0 +1,1 @@
+A microservices-based e-commerce backend built with Spring Boot, MongoDB, and Docker. This project includes product, order, inventory, notification services, and an API Gateway, with metrics and monitoring via Prometheus and Grafana.
