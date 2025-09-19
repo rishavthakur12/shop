@@ -40,7 +40,7 @@ All services are available on Docker Hub under my account.
 | Service               | Docker Image                                         |
 |-----------------------|-----------------------------------------------------|
 | API Gateway           | `rishavthakur/api-gateway:latest`     |
-| DiscoveryServer       | `rishavthakur/keycloak:latest`        |
+| DiscoveryServer       | `rishavthakur/discovery-server:latest`        |
 | Product Service       | `rishavthakur/product-service:latest` |
 | Order Service         | `rishavthakur/order-service:latest`   |
 | Inventory Service     | `rishavthakur/inventory-service:latest` |
